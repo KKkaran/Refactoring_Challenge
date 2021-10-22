@@ -80,6 +80,7 @@ nav ul li {
   margin-left: 20px;
 }
 .article {
+  /*the content section has 3 articles that need to be styled exactly similar so all were given the same class*/
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
